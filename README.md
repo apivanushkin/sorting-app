@@ -1,4 +1,4 @@
-# com.epam.sorting.SortingApp
+# SortingApp
 > Simple CLI application for ascending sorting of integers.
 
 ## Table of Contents
